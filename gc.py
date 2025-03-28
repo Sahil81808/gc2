@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 TOKEN = "6838193855:AAFm2sCuJlN8U4ysZpatPL6pud91nMbT5hk"
-ADMIN_ID = "6512242172"
+ADMIN_ID = "-1002365524959"
 USER_FILE = "users.txt"
 LOG_FILE = "log.txt"
 
